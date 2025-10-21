@@ -1,5 +1,5 @@
 # DSCoV Workshop on Topic Modeling
-This is the workshop on ***Topic Modeling*** from Data Science, Computation, and Visualization (DSCoV) Workshop series, co-organized by Brown University Data Science Institute and the Center for Computation and Visualization.
+This is the workshop on **Topic Modeling** from Data Science, Computation, and Visualization (DSCoV) Workshop series, co-organized by Brown University Data Science Institute and the Center for Computation and Visualization.
 
 The materials are prepared by Xiran Liu.
 
