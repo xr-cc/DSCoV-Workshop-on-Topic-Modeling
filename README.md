@@ -5,8 +5,8 @@ The materials are prepared by Xiran Liu.
 
 ## Contents
 1. Slides.
-2. Notebook of a demo on a text dataset.
-3. Notebook of a demo on a scRNA-seq dataset.
+2. [Notebook of topic modeling demonstrations on a text dataset](topic_modeling_NLP_demo.ipynb).
+3. [Notebook of topic modeling demonstrations on a scRNA-seq dataset](topic_modeling_scRNAseq_demo.ipynb).
 
 ## Data
 Datasets used in the workshop are
