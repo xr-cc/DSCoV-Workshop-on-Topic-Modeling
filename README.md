@@ -4,7 +4,7 @@ This is the workshop on **Topic Modeling** from Data Science, Computation, and V
 The materials are prepared by Xiran Liu.
 
 ## Contents
-1. Slides (to be uploaded).
+1. [Slides](DSCoV_Workshop_1031_Slides.pdf).
 2. [Notebook of topic modeling demonstrations on a text dataset (*in Python*)](topic_modeling_NLP_demo.ipynb).
 3. [Notebook of topic modeling demonstrations on a scRNA-seq dataset (*in Python*)](topic_modeling_scRNAseq_demo.ipynb).
 4. [Notebook of topic modeling demonstrations on a cancer mutation dataset (*in R*)](topic_modeling_MutSig_demo.ipynb).
